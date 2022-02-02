@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">brain</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="content1">Java-android-题库app Android更像一款桌面环境为Java的Linux操作系统。有助于Google实现其“随时随地为每个人提供信息”的企业战略。
+            Android盈利模式 Android的App Market模式，软件开发者获得7成收入，3成用于系统维护。设备上通过卖设备、内置特色应用来获得盈利。Google自身通过基于同一平台为用户提供信息来盈利。</string>
+</resources>
